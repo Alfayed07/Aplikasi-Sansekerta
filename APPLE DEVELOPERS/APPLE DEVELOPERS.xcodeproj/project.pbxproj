@@ -1,0 +1,442 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6E1AADF82A94B045006CEA97 /* FirstPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AADF72A94B045006CEA97 /* FirstPage.swift */; };
+		6E1AADFA2A94B04B006CEA97 /* SecondPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AADF92A94B04B006CEA97 /* SecondPage.swift */; };
+		6E5F55202A891C8100E72897 /* rumah adat bali dari depan - Bing images.html in Resources */ = {isa = PBXBuildFile; fileRef = 6E5F551F2A891C8100E72897 /* rumah adat bali dari depan - Bing images.html */; };
+		6E5F55222A891DA000E72897 /* saraswati-temple-in-ubud.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E5F55212A891DA000E72897 /* saraswati-temple-in-ubud.jpg */; };
+		6E5F55262A8929F400E72897 /* IntroPembukaan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E5F55252A8929F400E72897 /* IntroPembukaan.swift */; };
+		6E792D9C2A89C7F400211FC2 /* Menu utama.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E792D9B2A89C7F400211FC2 /* Menu utama.swift */; };
+		6EB8F6E92A970D1B00A90368 /* OnBoardingtwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB8F6E82A970D1B00A90368 /* OnBoardingtwo.swift */; };
+		6EB8F6EB2A970D3B00A90368 /* OnBoardingone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB8F6EA2A970D3B00A90368 /* OnBoardingone.swift */; };
+		6EB8F6ED2A970D4300A90368 /* OnBoardingthree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB8F6EC2A970D4300A90368 /* OnBoardingthree.swift */; };
+		6ECC83C52A9250140046AC45 /* Angkul.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ECC83C42A9250140046AC45 /* Angkul.swift */; };
+		6ECC83C72A92570B0046AC45 /* SegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ECC83C62A92570B0046AC45 /* SegmentedControl.swift */; };
+		6ECC83C92A92591E0046AC45 /* Angkul2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ECC83C82A92591E0046AC45 /* Angkul2.swift */; };
+		6EEFC5EF2A8648C10088B01E /* APPLE_DEVELOPERSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EEFC5EE2A8648C10088B01E /* APPLE_DEVELOPERSApp.swift */; };
+		6EEFC5F12A8648C10088B01E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EEFC5F02A8648C10088B01E /* ContentView.swift */; };
+		6EEFC5F32A8648C30088B01E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EEFC5F22A8648C30088B01E /* Assets.xcassets */; };
+		6EEFC5F62A8648C30088B01E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EEFC5F52A8648C30088B01E /* Preview Assets.xcassets */; };
+		6EF20BDA2A9345E0001D2C79 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF20BD92A9345E0001D2C79 /* Menu.swift */; };
+		6EF98D2B2A8F6AE30017576C /* MainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF98D2A2A8F6AE30017576C /* MainMenu.swift */; };
+		6EF98D302A8F6B500017576C /* Carausel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF98D2F2A8F6B500017576C /* Carausel.swift */; };
+		6EF98D322A8F6BC60017576C /* GridMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF98D312A8F6BC60017576C /* GridMenu.swift */; };
+		6EF98D342A8F6CC30017576C /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF98D332A8F6CC30017576C /* MenuItem.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6E1AADF72A94B045006CEA97 /* FirstPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstPage.swift; sourceTree = "<group>"; };
+		6E1AADF92A94B04B006CEA97 /* SecondPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPage.swift; sourceTree = "<group>"; };
+		6E5F551F2A891C8100E72897 /* rumah adat bali dari depan - Bing images.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = "rumah adat bali dari depan - Bing images.html"; path = "../../../../Downloads/rumah adat bali dari depan - Bing images.html"; sourceTree = "<group>"; };
+		6E5F55212A891DA000E72897 /* saraswati-temple-in-ubud.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "saraswati-temple-in-ubud.jpg"; path = "../../../../Downloads/saraswati-temple-in-ubud.jpg"; sourceTree = "<group>"; };
+		6E5F55252A8929F400E72897 /* IntroPembukaan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroPembukaan.swift; sourceTree = "<group>"; };
+		6E792D9B2A89C7F400211FC2 /* Menu utama.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Menu utama.swift"; sourceTree = "<group>"; };
+		6EB8F6E82A970D1B00A90368 /* OnBoardingtwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = OnBoardingtwo.swift; path = ../../../Downloads/OnBoardingtwo.swift; sourceTree = "<group>"; };
+		6EB8F6EA2A970D3B00A90368 /* OnBoardingone.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = OnBoardingone.swift; path = ../../../Downloads/OnBoardingone.swift; sourceTree = "<group>"; };
+		6EB8F6EC2A970D4300A90368 /* OnBoardingthree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = OnBoardingthree.swift; path = ../../../Downloads/OnBoardingthree.swift; sourceTree = "<group>"; };
+		6ECC83C42A9250140046AC45 /* Angkul.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Angkul.swift; sourceTree = "<group>"; };
+		6ECC83C62A92570B0046AC45 /* SegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControl.swift; sourceTree = "<group>"; };
+		6ECC83C82A92591E0046AC45 /* Angkul2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Angkul2.swift; sourceTree = "<group>"; };
+		6EEFC5EB2A8648C10088B01E /* APPLE DEVELOPERS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "APPLE DEVELOPERS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EEFC5EE2A8648C10088B01E /* APPLE_DEVELOPERSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APPLE_DEVELOPERSApp.swift; sourceTree = "<group>"; };
+		6EEFC5F02A8648C10088B01E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		6EEFC5F22A8648C30088B01E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6EEFC5F52A8648C30088B01E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6EF20BD92A9345E0001D2C79 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		6EF98D2A2A8F6AE30017576C /* MainMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenu.swift; sourceTree = "<group>"; };
+		6EF98D2F2A8F6B500017576C /* Carausel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Carausel.swift; sourceTree = "<group>"; };
+		6EF98D312A8F6BC60017576C /* GridMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridMenu.swift; sourceTree = "<group>"; };
+		6EF98D332A8F6CC30017576C /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6EEFC5E82A8648C10088B01E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6ECC83C32A924EC60046AC45 /* Components2 */ = {
+			isa = PBXGroup;
+			children = (
+				6ECC83C62A92570B0046AC45 /* SegmentedControl.swift */,
+				6ECC83C42A9250140046AC45 /* Angkul.swift */,
+				6ECC83C82A92591E0046AC45 /* Angkul2.swift */,
+				6E1AADF72A94B045006CEA97 /* FirstPage.swift */,
+				6E1AADF92A94B04B006CEA97 /* SecondPage.swift */,
+			);
+			path = Components2;
+			sourceTree = "<group>";
+		};
+		6EEFC5E22A8648C10088B01E = {
+			isa = PBXGroup;
+			children = (
+				6EEFC5ED2A8648C10088B01E /* APPLE DEVELOPERS */,
+				6EEFC5EC2A8648C10088B01E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6EEFC5EC2A8648C10088B01E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6EEFC5EB2A8648C10088B01E /* APPLE DEVELOPERS.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6EEFC5ED2A8648C10088B01E /* APPLE DEVELOPERS */ = {
+			isa = PBXGroup;
+			children = (
+				6EEFC5F02A8648C10088B01E /* ContentView.swift */,
+				6EF98D292A8F6ABA0017576C /* Menu */,
+				6EEFC5EE2A8648C10088B01E /* APPLE_DEVELOPERSApp.swift */,
+				6E792D9B2A89C7F400211FC2 /* Menu utama.swift */,
+				6E5F55252A8929F400E72897 /* IntroPembukaan.swift */,
+				6EB8F6EC2A970D4300A90368 /* OnBoardingthree.swift */,
+				6EB8F6E82A970D1B00A90368 /* OnBoardingtwo.swift */,
+				6EB8F6EA2A970D3B00A90368 /* OnBoardingone.swift */,
+				6EEFC5F22A8648C30088B01E /* Assets.xcassets */,
+				6EEFC5F42A8648C30088B01E /* Preview Content */,
+			);
+			path = "APPLE DEVELOPERS";
+			sourceTree = "<group>";
+		};
+		6EEFC5F42A8648C30088B01E /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				6E5F55212A891DA000E72897 /* saraswati-temple-in-ubud.jpg */,
+				6E5F551F2A891C8100E72897 /* rumah adat bali dari depan - Bing images.html */,
+				6EEFC5F52A8648C30088B01E /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6EF98D292A8F6ABA0017576C /* Menu */ = {
+			isa = PBXGroup;
+			children = (
+				6EF20BD92A9345E0001D2C79 /* Menu.swift */,
+				6ECC83C32A924EC60046AC45 /* Components2 */,
+				6EF98D2D2A8F6AF70017576C /* Components */,
+				6EF98D2C2A8F6AEE0017576C /* Views */,
+			);
+			path = Menu;
+			sourceTree = "<group>";
+		};
+		6EF98D2C2A8F6AEE0017576C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				6EF98D2A2A8F6AE30017576C /* MainMenu.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		6EF98D2D2A8F6AF70017576C /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				6EF98D2F2A8F6B500017576C /* Carausel.swift */,
+				6EF98D312A8F6BC60017576C /* GridMenu.swift */,
+				6EF98D332A8F6CC30017576C /* MenuItem.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6EEFC5EA2A8648C10088B01E /* APPLE DEVELOPERS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6EEFC5F92A8648C30088B01E /* Build configuration list for PBXNativeTarget "APPLE DEVELOPERS" */;
+			buildPhases = (
+				6EEFC5E72A8648C10088B01E /* Sources */,
+				6EEFC5E82A8648C10088B01E /* Frameworks */,
+				6EEFC5E92A8648C10088B01E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "APPLE DEVELOPERS";
+			productName = "APPLE DEVELOPERS";
+			productReference = 6EEFC5EB2A8648C10088B01E /* APPLE DEVELOPERS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6EEFC5E32A8648C10088B01E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					6EEFC5EA2A8648C10088B01E = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 6EEFC5E62A8648C10088B01E /* Build configuration list for PBXProject "APPLE DEVELOPERS" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6EEFC5E22A8648C10088B01E;
+			productRefGroup = 6EEFC5EC2A8648C10088B01E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6EEFC5EA2A8648C10088B01E /* APPLE DEVELOPERS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6EEFC5E92A8648C10088B01E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E5F55202A891C8100E72897 /* rumah adat bali dari depan - Bing images.html in Resources */,
+				6EEFC5F62A8648C30088B01E /* Preview Assets.xcassets in Resources */,
+				6EEFC5F32A8648C30088B01E /* Assets.xcassets in Resources */,
+				6E5F55222A891DA000E72897 /* saraswati-temple-in-ubud.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6EEFC5E72A8648C10088B01E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6EF98D2B2A8F6AE30017576C /* MainMenu.swift in Sources */,
+				6EEFC5F12A8648C10088B01E /* ContentView.swift in Sources */,
+				6EEFC5EF2A8648C10088B01E /* APPLE_DEVELOPERSApp.swift in Sources */,
+				6EB8F6EB2A970D3B00A90368 /* OnBoardingone.swift in Sources */,
+				6E1AADF82A94B045006CEA97 /* FirstPage.swift in Sources */,
+				6EF98D302A8F6B500017576C /* Carausel.swift in Sources */,
+				6EB8F6ED2A970D4300A90368 /* OnBoardingthree.swift in Sources */,
+				6ECC83C72A92570B0046AC45 /* SegmentedControl.swift in Sources */,
+				6EF98D322A8F6BC60017576C /* GridMenu.swift in Sources */,
+				6EF20BDA2A9345E0001D2C79 /* Menu.swift in Sources */,
+				6ECC83C52A9250140046AC45 /* Angkul.swift in Sources */,
+				6ECC83C92A92591E0046AC45 /* Angkul2.swift in Sources */,
+				6E1AADFA2A94B04B006CEA97 /* SecondPage.swift in Sources */,
+				6EF98D342A8F6CC30017576C /* MenuItem.swift in Sources */,
+				6E792D9C2A89C7F400211FC2 /* Menu utama.swift in Sources */,
+				6EB8F6E92A970D1B00A90368 /* OnBoardingtwo.swift in Sources */,
+				6E5F55262A8929F400E72897 /* IntroPembukaan.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		6EEFC5F72A8648C30088B01E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6EEFC5F82A8648C30088B01E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6EEFC5FA2A8648C30088B01E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"APPLE DEVELOPERS/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "HELLO.APPLE-DEVELOPERS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6EEFC5FB2A8648C30088B01E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"APPLE DEVELOPERS/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "HELLO.APPLE-DEVELOPERS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6EEFC5E62A8648C10088B01E /* Build configuration list for PBXProject "APPLE DEVELOPERS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EEFC5F72A8648C30088B01E /* Debug */,
+				6EEFC5F82A8648C30088B01E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6EEFC5F92A8648C30088B01E /* Build configuration list for PBXNativeTarget "APPLE DEVELOPERS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EEFC5FA2A8648C30088B01E /* Debug */,
+				6EEFC5FB2A8648C30088B01E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6EEFC5E32A8648C10088B01E /* Project object */;
+}
